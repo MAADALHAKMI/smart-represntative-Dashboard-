@@ -32,10 +32,9 @@ This dashboard serves as the **administrative control center** for the Smart Rep
 
 ## 📸 Preview
 
-![Dashboard Preview](public\images\Screenshot (2).png)
-![Dashboard Preview](public\images\Screenshot 2025-05-02 161517.png)
-![Dashboard Preview](public\images\Screenshot 2025-05-02 161909.png)
-
+![Dashboard Preview](public/images/Screenshot_1.png)
+![Dashboard Preview](public/images/Screenshot_2.png)
+![Dashboard Preview](public/images/Screenshot_3.png)
 ##
 
 ## 📦 Installation
