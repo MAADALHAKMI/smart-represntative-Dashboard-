@@ -1,3 +1,4 @@
+smart-representative-forherdlaravel--firebase-adminsdk-91opr-d82a690758.json
 /.phpunit.cache
 /node_modules
 /public/build
@@ -18,3 +19,5 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+# Ignore Firebase secret file
+
